@@ -1,0 +1,95 @@
+    .titulo{
+    text-align: center;
+    color: crimson;
+    font-size: 80px;
+}
+    .boxeo{
+    text-align: center;
+    color: rgb(14, 248, 53);
+    font-size: 80px;
+}
+
+    .natacion{
+    text-align: center;
+    color: rgb(189, 236, 17);
+    font-size: 80px;
+}
+    .ciclismo{
+    text-align: center;
+    color: rgb(201, 97, 12);
+    font-size: 80px; 
+}
+
+    .futbol{
+    text-align: center;
+    color: rgba(187, 16, 187, 0.637);
+    font-size: 80px;
+}
+
+    #subtitulo{
+    text-align: left;
+    color: rgb(228, 33, 228);
+    font-size: 30px;
+    
+
+}
+    #boxeo1{
+    text-align: right;
+    color: peru;
+    font-size: 60px;
+}
+
+    #natacion1{
+    text-align: start;
+    color: rgb(37, 133, 18);
+    font-size: 60px;
+
+} 
+    #ciclismo1{
+    text-align: initial;
+    color: saddlebrown;
+    font-size: 60px;
+
+}
+    #futbol1{
+    text-align: right;
+    color: rgb(236, 10, 10);
+    font-size: 60px;
+    
+        
+}
+    p{
+    color: green;
+    font-size: 20px;
+}
+
+    p.rojo{
+    color: midnightblue;
+    font-size: 20px;
+}
+
+    p.rojo1{
+    color: rgb(3, 59, 66);
+    font-size: 20px;
+}
+    p.rojo2{
+    color: slateblue;
+    font-size: 20px;
+}
+
+    p.rojo3{
+    color: yellowgreen;
+    font-size: 20px;
+
+}
+
+    p.rojo4{
+    color: teal;
+    font-size: 20px;
+}
+    h1:hover{
+    color: rgb(128, 36, 128);
+    font-size: 120px;
+
+}
+   
